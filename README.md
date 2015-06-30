@@ -1,1 +1,1 @@
-# idap
+# idap - Institutional Data Analytics Platform
